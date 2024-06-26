@@ -1,3 +1,10 @@
+# Ide
+.idea
+
+# Build
+cmake-build-debug
+build
+
 # Prerequisites
 *.d
 
